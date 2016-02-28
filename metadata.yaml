@@ -1,0 +1,31 @@
+_repo: Die-Hochzeit-des-Monchs_9495
+creator:
+  author:
+    agent_name: Meyer, Conrad Ferdinand
+    aliases:
+    - Meyer-Ziegler, Konrad Ferdinand
+    - Meyer, Konrad Ferdinand
+    - Meyer, C. F. (Conrad Ferdinand)
+    birthdate: 1825
+    deathdate: 1898
+    gutenberg_agent_id: '1259'
+    url: http://www.gutenberg.org/2009/agents/1259
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+    - http://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9495'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 476-1492 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Alighieri, Dante, 1265-1321 -- Fiction'
+title: Die Hochzeit des Mönchs
+url: http://www.gutenberg.org/ebooks/9495
