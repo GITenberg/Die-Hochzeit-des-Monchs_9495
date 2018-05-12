@@ -1,4 +1,8 @@
 _repo: Die-Hochzeit-des-Monchs_9495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meyer, Conrad Ferdinand
@@ -14,6 +18,8 @@ creator:
     - http://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
     - http://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9495#Die-Hochzeit-des-Monchs
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
